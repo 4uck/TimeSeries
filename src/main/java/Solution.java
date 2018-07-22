@@ -4,7 +4,7 @@ import java.util.TreeMap;
 
 public class Solution {
 
-    TreeMap<Integer, Integer> row_1;
+    private TreeMap<Integer, Integer> row_1;
 
     public Solution(TreeMap<Integer, Integer> row_1) {
         this.row_1 = row_1;
